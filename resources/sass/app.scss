@@ -1,0 +1,16 @@
+// LASTLY ADDED
+//@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+$fa-font-path: "../webfonts";
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~admin-lte/dist/css/adminlte.css';
+@import '~@fontawesome/fontawesome-free/scss/fontawesome.css';
+@import '~@fontawesome/fontawesome-free/scss/solid.css';
+@import '~@fontawesome/fontawesome-free/scss/brands.css';
